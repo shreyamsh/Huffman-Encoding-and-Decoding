@@ -1,0 +1,36 @@
+Enter the probabilities:[0.3 0.25 0.2 0.12 0.08 0.05]
+The huffman code dict:
+    [1]    '0  0'      
+    [2]    '0  1'      
+    [3]    '1  1'      
+    [4]    '1  0  1'   
+    [5]    '1  0  0  0'
+    [6]    '1  0  0  1'
+
+Enter the symbols between 1 to 6 in[]:[3]
+
+sym =
+
+     3
+
+The encoded output:
+     1
+     1
+
+Enter the bit stream in[];[1 1]
+The symbols are:
+     3
+
+Entropy is 2.360147 bits
+Efficiency is:0.991659
+
+m =
+
+     4
+
+
+s =
+
+     2
+
+The variance is:2>> 
